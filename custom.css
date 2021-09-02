@@ -1,3 +1,11 @@
 body {
   background-color: #F0F0F0;
 }
+
+.read-more {
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
