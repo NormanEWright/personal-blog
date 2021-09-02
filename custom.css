@@ -2,7 +2,7 @@ body {
   background-color: #F0F0F0;
 }
 
-.read-more {
+.link {
   text-decoration: none;
 }
 .card {
@@ -11,6 +11,6 @@ body {
 .yt-player {
   border-radius: 10px 10px 0 0;
 }
-.read-more:hover {
+.link {
   text-decoration: underline;
 }
