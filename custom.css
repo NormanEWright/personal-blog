@@ -1,7 +1,10 @@
 body {
   background-color: #F0F0F0;
 }
-
+.profile-pic {
+  height: 100px;
+  width: 100px;
+}
 .link {
   text-decoration: none;
 }
