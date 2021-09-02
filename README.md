@@ -8,6 +8,6 @@ The static version of the site utilizes:
 * Javascript
 * Fontawesome
 
-Once completed, the site will be converted to a custom WordPress.
+Once completed, the site will be converted to a custom WordPress theme.
 
 The primary goal for my blog is to share my coursework and personal projects.
