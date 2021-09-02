@@ -5,15 +5,17 @@ body {
   height: 90px;
   width: 90px;
 }
+.nav-link,
 .link {
   text-decoration: none;
+}
+.nav-link:hover,
+.link:hover {
+  text-decoration: underline;
 }
 .card {
   border-radius: 10px;
 }
 .yt-player {
   border-radius: 10px 10px 0 0;
-}
-.link {
-  text-decoration: underline;
 }
