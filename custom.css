@@ -5,7 +5,12 @@ body {
 .read-more {
   text-decoration: none;
 }
-
+.card {
+  border-radius: 10px;
+}
+.yt-player {
+  border-radius: 10px 10px 0 0;
+}
 .read-more:hover {
   text-decoration: underline;
 }
