@@ -5,6 +5,10 @@ body {
   height: 90px;
   width: 90px;
 }
+a.nav-link.active {
+  text-decoration: underline;
+  font-weight: bold;
+}
 .nav-link,
 .link {
   text-decoration: none;
